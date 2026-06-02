@@ -1,0 +1,40 @@
+# Keil MDK project files
+
+*.htm
+*.map
+*.sct
+*.lnp
+*.dep
+
+# Build output
+Objects/
+Listings/
+RTE/
+
+# Debug configuration
+DebugConfig/
+*.dbgconf
+*.dbgconf.base*
+
+# Event Recorder
+*.scvd
+
+# Kiro settings
+.kiro/
+
+# Executables
+*.axf
+*.elf
+*.bin
+*.hex
+*.ppt
+*.pptx
+
+# Temporary files
+*~
+*.bak
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
