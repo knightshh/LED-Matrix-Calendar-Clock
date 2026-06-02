@@ -29,7 +29,6 @@ DebugConfig/
 *.hex
 *.ppt
 *.pptx
-*.doc
 
 # Temporary files
 *~
